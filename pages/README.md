@@ -19,6 +19,8 @@ The data was deidentified in two ways:
 
 ## Data overview
 
+**Download:** motion-and-heart-rate-from-a-wrist-worn-wearable-and-labeled-sleep-from-polysomnography-1.0.0.zip (563 MB)
+
 The following types of data are provided: 
 
 - motion (acceleration): Recorded from the Apple Watch and saved as txt files with the naming convention '[subject-id-number]_acceleration.txt'
@@ -32,13 +34,15 @@ The following types of data are provided:
 
 ## Access and usage restrictions
 
+The SleepAccel dataset is opena ccess. There are no access and usage restrictions.
+
 ## Citation and acknowledgement
 
 When using this dataset, users must cite the following:
 
->[Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
->
->[Walch O, Huang Y, Forger D, Goldstein C. Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device. Sleep. 2019 Dec 24;42(12):zsz180. doi: 10.1093/sleep/zsz180. PMID: 31579900; PMCID: PMC6930135.](https://pubmed.ncbi.nlm.nih.gov/31579900/)
+> [Zhang GQ, Cui L, Mueller R, Tao S, Kim M, Rueschman M, Mariani S, Mobley D, Redline S. The National Sleep Research Resource: towards a sleep data commons. J Am Med Inform Assoc. 2018 Oct 1;25(10):1351-1358. doi: 10.1093/jamia/ocy064. PMID: 29860441; PMCID: PMC6188513.](https://pubmed.ncbi.nlm.nih.gov/29860441/)
+> 
+> [Walch O, Huang Y, Forger D, Goldstein C. Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device. Sleep. 2019 Dec 24;42(12):zsz180. doi: 10.1093/sleep/zsz180. PMID: 31579900; PMCID: PMC6930135.](https://pubmed.ncbi.nlm.nih.gov/31579900/)
 
 Users must include the following text in any Acknowledgements:
 
@@ -52,6 +56,8 @@ Users must include the following text in any Acknowledgements:
 
 ## References
 
+- SleepAccel full archive download (.zip, 563 MB): motion-and-heart-rate-from-a-wrist-worn-wearable-and-labeled-sleep-from-polysomnography-1.0.0.zip
+- Motion and heart rate from a wrist-worn wearable and labeled sleep from polysomnography: https://physionet.org/content/sleep-accel/
 - SleepAccel GitHub Documentation: https://github.com/nsrr/sleepaccel-documentation
 
 ## Acknowledgements
