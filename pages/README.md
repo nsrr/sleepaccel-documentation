@@ -34,7 +34,7 @@ The following types of data are provided:
 
 ## Access and usage restrictions
 
-The SleepAccel dataset is opena ccess. There are no access and usage restrictions.
+The SleepAccel dataset is open access. There are no access and usage restrictions.
 
 ## Citation and acknowledgement
 
