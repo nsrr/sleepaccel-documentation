@@ -52,7 +52,7 @@ Users must include the following text in any Acknowledgements:
 
 *May 2024*
 
-- Make SleepAccel dataset available for data requests
+- Make SleepAccel dataset available for download
 
 ## References
 
